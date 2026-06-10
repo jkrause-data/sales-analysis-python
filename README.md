@@ -172,3 +172,8 @@ Aspiring Data Analyst with a focus on:
 - Data Analysis
 - Reporting & Business Intelligence
 - Process Optimization
+
+  
+## Connect with Me
+
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/jenny-krause-data-analystin/)
